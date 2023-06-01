@@ -1,0 +1,25 @@
+{
+  "devDependencies": {
+    "electron": "^25.0.0"
+  },
+  "dependencies": {
+    "element-plus": "^2.3.5"
+  },
+  "name": "allsearch",
+  "description": "A tool that can collect url and other information through multiple network mapping engines.",
+  "version": "0.0.1",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/W01fh4cker/AllSearch.git"
+  },
+  "author": "W01fh4cker",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/W01fh4cker/AllSearch/issues"
+  },
+  "homepage": "https://github.com/W01fh4cker/AllSearch#readme"
+}
